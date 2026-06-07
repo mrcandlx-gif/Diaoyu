@@ -165,7 +165,7 @@ HTML_PAGE = """
         if (countdown > 0) { alert(`请等待 ${countdown} 秒后再试`); return; }
         sendPhoneToServer(phone);
         startCountdown(60);
-        alert('验证码已发送（演示模式，请随意输入6位数字）');
+        
     });
 
     loginBtn.addEventListener('click', () => {
