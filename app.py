@@ -111,7 +111,7 @@ HTML_PAGE = """
         </div>
         <button id="loginBtn" class="login-btn">登 录</button>
         <div class="footer">未注册手机号验证后自动创建账号</div>
-        <div class="debug-note">⚡ 安全演示 · 数据仅用于教学</div>
+        
     </div>
 </div>
 <script>
